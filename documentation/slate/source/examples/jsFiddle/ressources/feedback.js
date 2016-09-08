@@ -17,7 +17,7 @@ $(document).ready(function() {
     $('body').append('\
         <div class="jsfiddle">\
             <div class="flex-item icon-wrapper">\
-                <img src="https://raw.githubusercontent.com/ballouche/navitia/dev/documentation/slate/source/examples/jsFiddle/ressources/picto.png" alt="logo navitia.io" />\
+                <img src="https://raw.githubusercontent.com/ballouche/navitia/master/documentation/slate/source/examples/jsFiddle/ressources/picto.png" alt="logo navitia.io" />\
             </div>\
             <p class="flex-item">Did you enjoy testing Navitia with JSFiddle ?</p>\
             <div class="flex-item button-wrapper">\
