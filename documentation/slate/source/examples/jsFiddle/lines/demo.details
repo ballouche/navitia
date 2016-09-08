@@ -23,5 +23,8 @@ description: |
   www.navitia.io
 authors:
    - CanalTP
+resources:
+   - https://raw.githubusercontent.com/ballouche/navitia/dev/documentation/slate/source/examples/jsFiddle/ressources/feedback.css
+   - https://raw.githubusercontent.com/ballouche/navitia/dev/documentation/slate/source/examples/jsFiddle/ressources/feedback.js
 normalize_css: no
 ...
