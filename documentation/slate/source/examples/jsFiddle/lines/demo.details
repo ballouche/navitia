@@ -24,7 +24,7 @@ description: |
 authors:
    - CanalTP
 resources:
-  - https://rawgit.com/ballouche/navitia/master/documentation/slate/source/examples/jsFiddle/ressources/feedback.css
-  - https://rawgit.com/ballouche/navitia/master/documentation/slate/source/examples/jsFiddle/ressources/feedback.js
+  - https://rawgit.com/ballouche/navitia/dev/documentation/slate/source/examples/jsFiddle/ressources/feedback.css
+  - https://rawgit.com/ballouche/navitia/dev/documentation/slate/source/examples/jsFiddle/ressources/feedback.js
 normalize_css: no
 ...
